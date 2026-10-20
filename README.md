@@ -1,4 +1,4 @@
 # جلا
 
 حاسبة القيمة — افتحها من:
-https://hamadtov503.github.io/jala/
+https://hamadtov503.github.io/Jala/
